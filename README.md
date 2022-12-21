@@ -1,1 +1,1 @@
-# data-hackathon
+# Data Hackathon
