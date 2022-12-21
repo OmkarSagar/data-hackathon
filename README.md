@@ -13,6 +13,7 @@ __Our objective was to show that the people who have the highest ability to capi
 
 Data analysis tasks were accomplished in both R and Python and classifier construction for predicting housing prices was accomplished in Python. 
 
+Final presentation can be viewed in 'presentation_slide_deck'
 
 
 
